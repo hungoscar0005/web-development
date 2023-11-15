@@ -1,1 +1,1 @@
-Developing a Website for Children to Learn about Dinosaurs
+Developing a website for children to learn about dinosaurs
